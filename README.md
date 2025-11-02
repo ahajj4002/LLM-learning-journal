@@ -4,8 +4,8 @@ This repository aims at documenting my learning about LLMs: Notes, experiments, 
 Here is the structure I intend to follow:
 ## Contents
 - 'notes/' - topic-based markdown notes (transformers, fine-tuning, etc.)
-- 'experiments/' — Code (primarily Python scripts and notebooks) to test different models and prompts
-- 'resources/' — papers, links, and reference material
+- 'experiments/' - Code (primarily Python scripts and notebooks) to test different models and prompts
+- 'resources/' - papers, links, and reference material
 
 ## Goals
 - Build a deep understanding of how LLMs work starting with concepts such as backprogapagtion in neural network, Transformers and its variants
