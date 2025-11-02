@@ -3,8 +3,8 @@ This repository aims at documenting my learning about LLMs: Notes, experiments, 
 
 Here is the structure I intend to follow:
 ## Contents
-- 'notes/' — topic-based markdown notes (transformers, fine-tuning, etc.)
-- 'experiments/' — Python notebooks testing different models and prompts
+- 'notes/' - topic-based markdown notes (transformers, fine-tuning, etc.)
+- 'experiments/' — Code (primarily Python scripts and notebooks) to test different models and prompts
 - 'resources/' — papers, links, and reference material
 
 ## Goals
